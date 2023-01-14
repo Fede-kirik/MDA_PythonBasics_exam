@@ -1,1 +1,1 @@
-In questa directory si trova lo script python con lo svolgimento dell'esercizio per il corso di Data Analysis Basics
+In this directory you will find the python script with the exercise for the Data Analysis Basics course

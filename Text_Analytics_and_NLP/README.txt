@@ -1,0 +1,1 @@
+This directory contains notebooks with examples done during the Text Analytics and NLP course
